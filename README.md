@@ -20,3 +20,8 @@
 - The app utilizes the PokéAPI to fetch data dynamically, ensuring the information is always current and accurate.
 
 Dive into the world of Pokémon and become a true Pokémon Master with **I Choose You**! Gotta catch 'em all!
+
+### Изработиле
+- Христијан Здравев 213255
+- Танкица Понова 211105
+- Анастасија Пешевска 211114
